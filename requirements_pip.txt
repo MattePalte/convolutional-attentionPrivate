@@ -1,0 +1,9 @@
+certifi==2019.11.28
+Mako @ file:///home/conda/feedstock_root/build_artifacts/mako_1610659158978/work
+MarkupSafe==1.1.1
+mkl-service==2.3.0
+numpy==1.12.1
+pygpu==0.7.0
+scipy==1.2.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+Theano==1.0.1
