@@ -1,9 +1,9 @@
 # Purpose of the new study
 
-The Java dataset gathered in this work is reused in the new study: Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code.
+The Java dataset gathered in this work is reused in the new study: **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code**.
 
 ## Usage of the Model
-We are interested in the attention weights produced by the neural model during inference, thus we use the model for inference and for train
+We are interested in the attention weights produced by the neural model during inference, thus we use the model for inference and extract the weights for the entire testing dataset of the ten projects.
 
 ## Computing Environment
 
